@@ -24,4 +24,4 @@ Search for "CdPath" in the engine section, change the letter with the name of yo
 
 Open the game and the problem should be a goner
 
-If you want to the game no ask for the CD, you should put ..\ in "CdPath" (DO THIS AFTER SEEING THAT THE GAME OPENS)
+If you want to the game no ask for the CD, you should put "..\" in "CdPath" (DO THIS AFTER SEEING THAT THE GAME OPENS)
